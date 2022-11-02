@@ -21,6 +21,3 @@ will create multi-platform apps for iOS and Android using Google’s Flutter dev
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   
 </p>
 
-
-![Sathish's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsathish&show_icons=true)
-
